@@ -1,2 +1,2 @@
 This text file contains the early samples for a project that will be developed and maintained on our local code repo.
-Made some little changes, just to see how the code repo tracks the changes easily.
+Made some little changes, just to see how the code repo tracks the changes easily. Made third change to my file just to see how this goes.
