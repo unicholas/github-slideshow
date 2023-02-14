@@ -1,3 +1,4 @@
 I deleted the first file while testing out the git RM command. 
 I'm replacing it with this new one just so that i can see how it works.
 Testing the restore command
+testing unstaging
